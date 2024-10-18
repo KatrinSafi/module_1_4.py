@@ -1,0 +1,7 @@
+my_string = ('home_work')
+print(len(my_string))
+print("home_work".upper())
+print("home_work")
+print("home_work".replace("  ", ""))
+print(my_string[0])
+print(my_string[8])
